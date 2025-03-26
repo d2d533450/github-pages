@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="te">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>సాంప్రదాయ తెలుగు వెబ్‌సైట్</title>
+    <style>
+        body {
+            font-family: 'Noto Sans Telugu', sans-serif;
+            background-color: #f8f1e4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #a52a2a;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 24px;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background: #d2691e;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            font-size: 18px;
+        }
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+        footer {
+            background-color: #a52a2a;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>స్వాగతం! మీ తెలుగు సాంప్రదాయ వెబ్‌సైట్</h1>
+    </header>
+    <nav>
+        <a href="#home">హోమ్</a>
+        <a href="#about">గురించి</a>
+        <a href="#services">సేవలు</a>
+        <a href="#contact">సంప్రదించండి</a>
+    </nav>
+    <section>
+        <h2>సాంప్రదాయ తెలుగు సంస్కృతి</h2>
+        <p>తెలుగు భాష, సంస్కృతి, సంప్రదాయాలను ప్రతిబింబించే వెబ్‌సైట్.</p>
+    </section>
+    <footer>
+        &copy; 2025 సాంప్రదాయ తెలుగు వెబ్‌సైట్. అన్ని హక్కులు పరిరక్షించబడినవి.
+    </footer>
+</body>
+</html>
